@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-07-14T11:22:55.057Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" version="21.6.2" etag="i4V2mshulrNfPDy8QhNQ" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-14T11:24:17.308Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="5HrPq2I6jK5RPA9qhtkR" version="21.6.2" type="github">
   <diagram name="Page-1" id="S9DuOmxbEG1TUT1gVu3G">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Q6vFGdJXm7XNdmGxq_KE-1" value="Aryza Control" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="560" width="640" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="Q6vFGdJXm7XNdmGxq_KE-2" value="SQL Server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q6vFGdJXm7XNdmGxq_KE-3" value="SSRS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="685" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q6vFGdJXm7XNdmGxq_KE-4" value="SSIS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q6vFGdJXm7XNdmGxq_KE-5" value="FTP Server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q6vFGdJXm7XNdmGxq_KE-6" value="Dashboard&lt;br&gt;IIS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q6vFGdJXm7XNdmGxq_KE-7" value="- Migrate to Azure&lt;br&gt;- From SSRS to PowerBI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="900" width="270" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
